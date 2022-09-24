@@ -16,8 +16,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hero&show_icons=true&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=icraft2170)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **icraft2170/icraft2170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
