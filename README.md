@@ -16,8 +16,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=icraft2170&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icraft2170&show_icons=true&theme=radical)
 
 
 <!--
